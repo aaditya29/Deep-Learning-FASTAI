@@ -73,11 +73,11 @@ You can find additional resources to deepen your understanding of deep learning 
 - Books
 - Helpful tools and libraries
 
-| Resource                | Description                    | Link                                            |
-| ----------------------- | ------------------------------ | ----------------------------------------------- |
-| Deep Learning Book      | A comprehensive resource on DL | [Download here](resources/deeplearningbook.pdf) |
-| Research Paper - ResNet | Original paper on ResNet       | [Link](resources/ResNet-paper.pdf)              |
-| Fast.ai Library Docs    | Fast.ai documentation          | [Link](https://docs.fast.ai)                    |
+| Resource                | Description                    | Link                                                        |
+| ----------------------- | ------------------------------ | ----------------------------------------------------------- |
+| Deep Learning Book      | A comprehensive resource on DL | [Download here](https://course.fast.ai/Resources/book.html) |
+| Research Paper - ResNet | Original paper on ResNet       | [Link](https://arxiv.org/abs/1512.03385)                    |
+| Fast.ai Library Docs    | Fast.ai documentation          | [Link](https://docs.fast.ai)                                |
 
 ---
 
